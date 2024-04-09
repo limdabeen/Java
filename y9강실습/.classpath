@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/imdabin/Desktop/player.jar"/>
+	<classpathentry kind="lib" path="/Users/imdabin/Desktop/jlayer-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/imdabin/Desktop/BGM/coin.mp3"/>
+	<classpathentry kind="lib" path="/Users/imdabin/Desktop/BGM/bgs.mp3"/>
+	<classpathentry kind="lib" path="/Users/imdabin/Desktop/BGM/coin_[cut_1sec].mp3"/>
+	<classpathentry kind="lib" path="/Users/imdabin/Desktop/BGM/onlymp3.app -  BGM 카지노 슬롯게임 포트폴리오-o4v5WDfEnps-192k-1711984009_[cut_76sec].mp3"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
