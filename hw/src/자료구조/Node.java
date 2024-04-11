@@ -1,3 +1,4 @@
+//자료구조(6007) 과제 #4 (60231222 임다빈)
 package 자료구조;
 
 public class Node<E> {
